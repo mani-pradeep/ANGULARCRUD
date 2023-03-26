@@ -1,5 +1,27 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Manikandan",
+      "lastName": "P",
+      "emailId": "manikandanprabu@gmail.com",
+      "mobileNo": "9659630796"
+    },
+    {
+      "id": 2,
+      "firstName": "Manoj",
+      "lastName": "Jorvekar",
+      "emailId": "manoj@jorvekar",
+      "mobileNo": "978654321"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@test",
+      "mobileNo": "testetst"
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
